@@ -1,22 +1,16 @@
 {
-  "files": {
-    "main.css": "/vhvkhoa-page/static/css/main.b100e6da.chunk.css",
-    "main.js": "/vhvkhoa-page/static/js/main.f1c19893.chunk.js",
-    "main.js.map": "/vhvkhoa-page/static/js/main.f1c19893.chunk.js.map",
-    "runtime-main.js": "/vhvkhoa-page/static/js/runtime-main.8b86cffa.js",
-    "runtime-main.js.map": "/vhvkhoa-page/static/js/runtime-main.8b86cffa.js.map",
-    "static/js/2.2ca3a89e.chunk.js": "/vhvkhoa-page/static/js/2.2ca3a89e.chunk.js",
-    "static/js/2.2ca3a89e.chunk.js.map": "/vhvkhoa-page/static/js/2.2ca3a89e.chunk.js.map",
-    "index.html": "/vhvkhoa-page/index.html",
-    "precache-manifest.760b3f88985f6f4ea1cb5133a425335d.js": "/vhvkhoa-page/precache-manifest.760b3f88985f6f4ea1cb5133a425335d.js",
-    "service-worker.js": "/vhvkhoa-page/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/vhvkhoa-page/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/vhvkhoa-page/static/media/logo.25bf045c.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.8b86cffa.js",
-    "static/js/2.2ca3a89e.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.f1c19893.chunk.js"
-  ]
+  "main.js": "/vhvkhoa-page/static/js/main.3699b147.chunk.js",
+  "main.js.map": "/vhvkhoa-page/static/js/main.3699b147.chunk.js.map",
+  "runtime~main.js": "/vhvkhoa-page/static/js/runtime~main.37d90d66.js",
+  "runtime~main.js.map": "/vhvkhoa-page/static/js/runtime~main.37d90d66.js.map",
+  "static/js/2.2b4828ce.chunk.js": "/vhvkhoa-page/static/js/2.2b4828ce.chunk.js",
+  "static/js/2.2b4828ce.chunk.js.map": "/vhvkhoa-page/static/js/2.2b4828ce.chunk.js.map",
+  "index.html": "/vhvkhoa-page/index.html",
+  "precache-manifest.bf75aae2a742894ec1b9a0b5ded59585.js": "/vhvkhoa-page/precache-manifest.bf75aae2a742894ec1b9a0b5ded59585.js",
+  "service-worker.js": "/vhvkhoa-page/service-worker.js",
+  "static/media/father-son.png": "/vhvkhoa-page/static/media/father-son.beb3f4e1.png",
+  "static/media/fruit-bowl.jpg": "/vhvkhoa-page/static/media/fruit-bowl.83ded1b2.jpg",
+  "static/media/opening-page.jpg": "/vhvkhoa-page/static/media/opening-page.25cba2ef.jpg",
+  "static/media/post.jpg": "/vhvkhoa-page/static/media/post.6b8ec0b8.jpg",
+  "static/media/search-results.jpg": "/vhvkhoa-page/static/media/search-results.1445e56c.jpg"
 }
