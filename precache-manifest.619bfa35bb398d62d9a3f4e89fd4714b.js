@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/vhvkhoa-page/static/media/opening-page.25cba2ef.jpg"
   },
   {
-    "revision": "7115efa9e734bed587dd05622e530343",
+    "revision": "27894daf9373b381ba2662c35d5194ee",
     "url": "/vhvkhoa-page/index.html"
   }
 ];
