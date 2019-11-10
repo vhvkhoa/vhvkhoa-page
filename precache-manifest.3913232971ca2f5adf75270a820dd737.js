@@ -1,19 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "a95d35fb7125a73d55e0",
-    "url": "/vhvkhoa-page/static/js/main.15f43eb0.chunk.js"
+    "revision": "47dc59a548b06d861de0",
+    "url": "/vhvkhoa-page/static/js/main.bcda1a95.chunk.js"
   },
   {
     "revision": "b77b7378991a3b155538",
     "url": "/vhvkhoa-page/static/js/runtime~main.37d90d66.js"
   },
   {
-    "revision": "c4b03e6e95ecc20e2dba",
-    "url": "/vhvkhoa-page/static/js/2.df613cca.chunk.js"
+    "revision": "7b7aeede7b2c17f92b3d",
+    "url": "/vhvkhoa-page/static/js/2.1d745d7f.chunk.js"
   },
   {
     "revision": "beb3f4e1711563549c967cfd8501bffb",
     "url": "/vhvkhoa-page/static/media/father-son.beb3f4e1.png"
+  },
+  {
+    "revision": "6b8ec0b8f39dd0b090517a1ca02e29a7",
+    "url": "/vhvkhoa-page/static/media/post.6b8ec0b8.jpg"
   },
   {
     "revision": "1445e56ccbd3a565250dc6619fbfbf47",
@@ -28,11 +32,7 @@ self.__precacheManifest = [
     "url": "/vhvkhoa-page/static/media/opening-page.25cba2ef.jpg"
   },
   {
-    "revision": "6b8ec0b8f39dd0b090517a1ca02e29a7",
-    "url": "/vhvkhoa-page/static/media/post.6b8ec0b8.jpg"
-  },
-  {
-    "revision": "ef8b1cf232c811f02b2199cff02f52a8",
+    "revision": "c857672919e353aa33a0276c974d86b1",
     "url": "/vhvkhoa-page/index.html"
   }
 ];
