@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "63128390ad6190ebb9b2",
-    "url": "/vhvkhoa-page/static/js/main.0e362535.chunk.js"
+    "revision": "974003f6fbc2ce61cfe3",
+    "url": "/vhvkhoa-page/static/js/main.ddf9122e.chunk.js"
   },
   {
     "revision": "b77b7378991a3b155538",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/vhvkhoa-page/static/media/opening-page.25cba2ef.jpg"
   },
   {
-    "revision": "03a728654b80b77b13e754eec9d17a7b",
+    "revision": "1f5fad812ef609d12aac6494b337755f",
     "url": "/vhvkhoa-page/index.html"
   }
 ];
