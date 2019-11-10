@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "8182b41f84e908d189e9",
-    "url": "/vhvkhoa-page/static/js/main.dccdf4fc.chunk.js"
+    "revision": "63128390ad6190ebb9b2",
+    "url": "/vhvkhoa-page/static/js/main.0e362535.chunk.js"
   },
   {
     "revision": "b77b7378991a3b155538",
     "url": "/vhvkhoa-page/static/js/runtime~main.37d90d66.js"
   },
   {
-    "revision": "c44d361b040b2a47b003",
-    "url": "/vhvkhoa-page/static/js/2.e859a364.chunk.js"
-  },
-  {
-    "revision": "6b8ec0b8f39dd0b090517a1ca02e29a7",
-    "url": "/vhvkhoa-page/static/media/post.6b8ec0b8.jpg"
+    "revision": "ad6cc78bb6c9d9d58c53",
+    "url": "/vhvkhoa-page/static/js/2.8be64628.chunk.js"
   },
   {
     "revision": "beb3f4e1711563549c967cfd8501bffb",
     "url": "/vhvkhoa-page/static/media/father-son.beb3f4e1.png"
+  },
+  {
+    "revision": "6b8ec0b8f39dd0b090517a1ca02e29a7",
+    "url": "/vhvkhoa-page/static/media/post.6b8ec0b8.jpg"
   },
   {
     "revision": "1445e56ccbd3a565250dc6619fbfbf47",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/vhvkhoa-page/static/media/opening-page.25cba2ef.jpg"
   },
   {
-    "revision": "758d1a77c8aa07ab3c48d4a1aaa5dcf3",
+    "revision": "03a728654b80b77b13e754eec9d17a7b",
     "url": "/vhvkhoa-page/index.html"
   }
 ];
