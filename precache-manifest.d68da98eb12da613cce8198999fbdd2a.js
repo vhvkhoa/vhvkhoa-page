@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "2b9a5275a8973b8038cb",
-    "url": "/vhvkhoa-page/static/js/main.b468c8c7.chunk.js"
+    "revision": "455a1a03e0aced5e30ca",
+    "url": "/vhvkhoa-page/static/js/main.453ac740.chunk.js"
   },
   {
     "revision": "b77b7378991a3b155538",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/vhvkhoa-page/static/media/father-son.beb3f4e1.png"
   },
   {
-    "revision": "5071eb8121cd3548631198de52adfce2",
+    "revision": "20f2625c67e432b30d9f45cc5d04ad03",
     "url": "/vhvkhoa-page/index.html"
   }
 ];
