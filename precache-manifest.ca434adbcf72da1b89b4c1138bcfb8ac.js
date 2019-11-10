@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/vhvkhoa-page/static/media/father-son.beb3f4e1.png"
   },
   {
-    "revision": "20f2625c67e432b30d9f45cc5d04ad03",
+    "revision": "8bc3cbcb0d58a3698e03e6356d5b11db",
     "url": "/vhvkhoa-page/index.html"
   }
 ];

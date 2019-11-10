@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vhvkhoa-page/precache-manifest.d68da98eb12da613cce8198999fbdd2a.js"
+  "/vhvkhoa-page/precache-manifest.ca434adbcf72da1b89b4c1138bcfb8ac.js"
 );
 
 workbox.clientsClaim();
